@@ -73,7 +73,7 @@ cd DesignPatternLibrary
 # Run the application
 python main.py
 
-
+```
 ## 👩‍💻 Author
 Developed by Dvora Abrahams as a hands-on implementation of common software architecture patterns using Python.
 
